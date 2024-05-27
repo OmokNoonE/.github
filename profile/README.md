@@ -16,3 +16,11 @@
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                            이재원                            |                            장민석                            |                            조예린                            |                            지현근                            |                            최종찬                            |
 | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/jlee38266) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/ms1011) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/orlzlL) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/jihyeongeun) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/CJC0512) |
+
+## 📂 Repositories
+
+### [PPM-Backend](https://github.com/OmokNoonE/PPM-backend)
+- **Description**: 프로젝트 일정 관리 시스템 erp - Spring Boot
+
+### [PPM-Frontend](https://github.com/OmokNoonE/PPM-frontend)
+- **Description**: 프로젝트 일정 관리 시스템 erp - Vue
